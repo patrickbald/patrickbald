@@ -1,7 +1,9 @@
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+### Patrick Bald
 
-### Hi there 👋
+## About Me
+
+My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Vermont!
 
 <!--
 **patrickbald/patrickbald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 
