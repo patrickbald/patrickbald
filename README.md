@@ -4,8 +4,7 @@
 ### About Me
 
 My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Vermont!
-
-### Github Stats
+<br/>
 
 <div align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=patrickbald&show_icons=true" /> <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbald&layout=compact" />
