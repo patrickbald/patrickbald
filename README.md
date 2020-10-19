@@ -1,7 +1,7 @@
 
-### Patrick Bald
+## Patrick Bald
 
-## About Me
+### About Me
 
 My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Vermont!
 
