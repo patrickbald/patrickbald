@@ -7,8 +7,8 @@ My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Ve
 
 ### Github Stats
 
-<img align="center" width="10%" src="https://github-readme-stats.vercel.app/api?username=patrickbald&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbald&layout=compact" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=patrickbald&show_icons=true" />
+<img align="right" width="50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbald&layout=compact" />
 
 <!--
 **patrickbald/patrickbald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
