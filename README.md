@@ -8,7 +8,7 @@ My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Ve
 ### Github Stats
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=patrickbald&show_icons=true" /> <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbald&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=patrickbald&show_icons=true" /> <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbald&layout=compact" />
  </div>
 
 <!--
