@@ -17,7 +17,7 @@ Find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/gallery/Vahbdkj
+[1.2]: https://github.com/patrickbald/patrickbald/blob/main/linkedin.png
 
 <!-- Links to your social media accounts -->
 
