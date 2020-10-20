@@ -13,17 +13,15 @@ My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Ve
 
 <!-- Actual text -->
 
-Find [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+Find [![Instagram][1.2]][1], or on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://images.app.goo.gl/MZYKcfSiPfQProJw9
-[2.2]: https://images.app.goo.gl/hXqb7qdJsh5FSi4M8
+[1.2]: https://imgur.com/gallery/Vahbdkj
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.instagram.com/patrickbald_/
-[2]: https://www.linkedin.com/in/patrick-bald/
+[1]: https://www.linkedin.com/in/patrick-bald/
 
 <!--
 **patrickbald/patrickbald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
