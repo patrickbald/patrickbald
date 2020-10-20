@@ -11,9 +11,9 @@ My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Ve
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=patrickbald&show_icons=true" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbald&layout=compact" />
  </div>
 
-<!-- Actual text -->
+<br /><br />
 
-Find me on [LinkedIn][1].
+Connect with me on [LinkedIn][1].
 
 <!-- Links to your social media accounts -->
 
