@@ -13,7 +13,7 @@ My name is Patrick Bald and I'm an aspiring software engineer from Woodstock, Ve
 
 <!-- Actual text -->
 
-Find [![Instagram][1.2]][1], or on [![LinkedIn][1.2]][1].
+Find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
