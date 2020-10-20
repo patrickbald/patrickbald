@@ -17,7 +17,7 @@ Find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: <img width="20" height="20" src=https://github.com/patrickbald/patrickbald/blob/main/linkedin.png>
+[1.2]: <img width="20" height="20" src="https://github.com/patrickbald/patrickbald/blob/main/linkedin.png" />
 
 <!-- Links to your social media accounts -->
 
