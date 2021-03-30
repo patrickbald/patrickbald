@@ -3,7 +3,7 @@
 
 ### About Me
 
-My name is Patrick Bald, and I'm an aspiring software engineer from Woodstock, Vermont!
+My name is Patrick Bald, and I'm graduating from the University of Notre Dame this spring with a degree in Computer Science!
 <br/>
 <br/>
 
