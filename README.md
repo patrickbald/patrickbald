@@ -3,7 +3,7 @@
 
 ### About Me
 
-My name is Patrick Bald, and I'm graduating from the University of Notre Dame this spring with a degree in Computer Science!
+My name is Patrick Bald, and I am currently working in Seattle, WA as a software consultant.
 <br/>
 <br/>
 
