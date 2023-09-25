@@ -3,7 +3,7 @@
 
 ### About Me
 
-My name is Patrick Bald, and I am currently working in Seattle, WA as a software consultant.
+Hey there! My name is Patrick, and I am currently working in Seattle, WA as a software consultant.
 <br/>
 <br/>
 
